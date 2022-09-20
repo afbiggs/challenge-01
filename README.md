@@ -5,7 +5,7 @@ This purpose for this asssignment cahllenge was to refactor code documents for a
 
 ## Screenshot 
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/alexbiggs/bootcamp/challenges/challenge-01/assets/images/Digital%20Business%20Solutuions.png?version%3D1663645036275)
+/Users/alexbiggs/bootcamp/challenges/challenge-01/assets/images/Digital Business Solutuions.png
 
 ## Access Webpage 
 
