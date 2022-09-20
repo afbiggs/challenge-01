@@ -5,9 +5,10 @@ This purpose for this asssignment cahllenge was to refactor code documents for a
 
 ## Screenshot 
 
-/Users/alexbiggs/bootcamp/challenges/challenge-01/assets/images/Digital Business Solutuions.png
+![](/assets/images/Digital%20Business%20Solutuions.png)
 
 ## Access Webpage 
+
 
 
 
